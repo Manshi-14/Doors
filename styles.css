@@ -1,0 +1,83 @@
+/*font-family: 'Abril Fatface', cursive;
+font-family: 'Cedarville Cursive', cursive;
+font-family: 'Fraunces', serif;
+font-family: 'Hachi Maru Pop', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Yusei Magic', sans-serif;*/
+
+h1{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 5rem;
+	text-align: center;
+	font-weight: bold;
+}
+h4{
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	top : 95px;
+	font-size: 1.5rem;
+}
+p{
+	position: relative;
+	top : 70px;
+	font-size: 1rem;
+	color: grey;
+	font-family: 'Fraunces', serif;
+}
+img{
+	position: relative;
+	top : 100px;
+	height: 330px;
+	width: 200px;
+}
+a{
+	text-decoration-line: none;
+	color: white;
+}
+h4:hover{
+	color: white;
+	opacity: 0.6;
+	font-size: 2rem;
+}
+.door{
+
+	height: 600px;
+	text-align: center;
+	background-color: green;
+}
+.one{
+	background-color: #bbf1fa;
+}
+.two{
+	background-color: #ec4646;
+}
+.three{
+	background-color: #393e46;
+}
+.four{
+	background-color: #ff8e71;
+}
+.five{
+	background-color: #efd9d1;
+}
+.six{
+	background-color: #9ad3bc;
+}
+.seven{
+	background-color: #cbbcb1;
+}
+.eight{
+	background-color: #fff3e2;
+}
+.nine{
+	background-color: #ffe05d;
+}
+.ten{
+	background-color: #ef4f4f;
+}
+.footer{
+	text-align: center;
+}
+.note{
+	padding-bottom: 20px;
+}
